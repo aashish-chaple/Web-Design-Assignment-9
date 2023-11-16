@@ -1,39 +1,33 @@
 # Web-Design-Assignment-9
 
-Project Name
-Description
 This project is a web application that provides a login functionality using email and password. It includes four main pages: Home page of Northeastern University, Jobs page describing available jobs, About page providing information about the institution, and a Contact page.
 
-Table of Contents
+#Table of Contents
 Features
 Technologies Used
 Getting Started
 Backend Setup
 Frontend Setup
 Usage
-Contributing
-License
-Features
+
 User authentication with email and password
 Four main pages: Home, Jobs, About, and Contact
 Responsive design using React and React-Bootstrap
 Integration of React Router for page navigation
 Backend server built with Express and Node.js
 MongoDB used as the database to store user information
-Technologies Used
+
+#Technologies Used
 React
 React Router
 React-Bootstrap
 Node.js
 Express
 MongoDB
-Getting Started
-Backend Setup
-Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/your-repo.git
+#Getting Started
+Backend Setup
+
 Navigate to the backend folder:
 cd backend
 
